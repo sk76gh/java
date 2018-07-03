@@ -1,0 +1,5 @@
+package org.saravana.jaxrs.jaxrs.exception;
+
+public class MessageNotFoundException {
+
+}

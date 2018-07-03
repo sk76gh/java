@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyClass.java&apos; to &apos;mvnwebappeclps&apos;&#x0D;&#x0A;- Original project: &apos;mvnwebapp&apos;&#x0D;&#x0A;- Destination element: &apos;mvnwebappeclps&apos;&#x0D;&#x0A;- Original element: &apos;MyClass.java&apos;" description="Copy file" element1="src/main/java/org/saravana/maven/MyClass.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1528436935831" target="/mvnwebappeclps/src/main/java/org/saravana/hibernate/mvnwebappeclps" units="0" version="1.0"/>
+</session>

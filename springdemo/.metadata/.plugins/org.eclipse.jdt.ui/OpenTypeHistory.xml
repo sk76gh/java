@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=hib/src\/main\/java&lt;org.saravana.hibernate.hib.dto{UserVehicle.java[UserVehicle" modifiers="1" timestamp="1528274691156"/>
+<typeInfo handle="=jaxrs/src\/main\/java&lt;org.saravana.jaxrs.jaxrs.dao{MessageDao.java[MessageDao" modifiers="1" timestamp="1529571946881"/>
+<typeInfo handle="=mockito-ex/src\/main\/java&lt;org.saravana.mockito.data.api.service{TodoService.java[TodoService" modifiers="513" timestamp="1529471964654"/>
+<typeInfo handle="=mockito-ex/C:\/Users\/307003405\/.m2\/repository\/org\/mockito\/mockito-all\/1.10.19\/mockito-all-1.10.19.jar&lt;org.mockito(BDDMockito.class[BDDMockito" modifiers="33" timestamp="1529471356086"/>
+<typeInfo handle="=jaxrs/C:\/Program Files\/Java\/jre1.8.0_151\/lib\/rt.jar&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1510209973248"/>
+</typeInfoHistroy>

@@ -1,0 +1,9 @@
+127.0.0.1 - - [25/Jun/2018:09:38:06 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [25/Jun/2018:09:38:07 +0530] "GET /jaxrs/ HTTP/1.1" 200 247
+127.0.0.1 - - [25/Jun/2018:09:38:08 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [25/Jun/2018:09:38:23 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 200 1965
+127.0.0.1 - - [25/Jun/2018:09:39:44 +0530] "GET /jaxrs/webapi/messages/cxwebinterface/sdk/CxSDKWebService.asmx HTTP/1.1" 404 967
+0:0:0:0:0:0:0:1 - - [25/Jun/2018:09:40:27 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 200 1965
+0:0:0:0:0:0:0:1 - - [25/Jun/2018:09:40:27 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [25/Jun/2018:09:41:10 +0530] "GET /jaxrs/webapi/messages/cxwebinterface/sdk/CxSDKWebService.asmx HTTP/1.1" 404 967
+127.0.0.1 - - [25/Jun/2018:09:42:57 +0530] "GET /jaxrs/webapi/messages/cxwebinterface/sdk/CxSDKWebService.asmx HTTP/1.1" 404 967

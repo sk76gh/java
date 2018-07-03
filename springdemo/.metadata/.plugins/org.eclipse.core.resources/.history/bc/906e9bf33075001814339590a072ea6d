@@ -1,0 +1,22 @@
+package org.saravana.jaxrs.jaxrs.dao;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class HibernateSessionFactorySingleton {
+
+	private static SessionFactory factory;
+	
+	private HibernateSessionFactorySingleton() {
+		// TODO Auto-generated constructor stub
+		
+	}
+	
+	public static synchronized SessionFactory getHibernateSessionFactory(){
+		
+		if(factory==null){
+			factory=new Configuration().configure().buildSessionFactory();
+		}
+		return factory;
+	}
+}

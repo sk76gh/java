@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=C\:/eclipse-jee-neon-3-win32-x86_64/eclipse/plugins/org.aspectj.runtime_1.8.10.201703272045.jar
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/eclipse-jee-neon-3-win32-x86_64/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_151/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/eclipse-jee-neon-3-win32-x86_64/eclipse/plugins/org.junit_4.12.0.v201504281640/
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/307003405/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+org.eclipse.jdt.core.compiler.compliance=1.8
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=1.8
+org.eclipse.jdt.core.userLibrary.jdk10=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/ant-javafx.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/deploy.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/java.jnlp.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/javafx-swt.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/javaws.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/jdk.deploy.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/jdk.javaws.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/jdk.plugin.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/jrt-fs.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/plugin.jar"/>\r\n\t<archive path\="C\:/Program Files/Java/jdk-10.0.1/lib/plugin-legacy.jar"/>\r\n</userlibrary>\r\n

@@ -1,0 +1,46 @@
+package org.saravana.jaxrs.jaxrs.dao;
+
+import java.util.Map;
+
+import org.saravana.jaxrs.jaxrs.model.Comment;
+import org.saravana.jaxrs.jaxrs.model.Message;
+
+public class CommentDao extends MessageDao {
+
+	public void addComment(Comment comment) {
+		// TODO Auto-generated method stub
+		
+		this.getSession().beginTransaction();
+		this.getSession().save(comment);
+		this.getSession().getTransaction().commit();
+		
+	}
+
+	public Comment getComment(long messageid, long commentid) {
+		// TODO Auto-generated method stub
+		Comment comment=(Comment)getMessage(messageid).getComment(commentid);
+		return comment;
+	}
+
+	public void updateComment(Comment comment) {
+		// TODO Auto-generated method stub
+		
+		this.getSession().beginTransaction();
+		this.getSession().merge(comment);
+		this.getSession().getTransaction().commit();
+		
+	}
+
+	public Comment removeComment(long messageid, long commentid) {
+		Comment comment=this.getComment(messageid, commentid);
+		System.out.println("new comment object : "+comment);
+		this.getSession().beginTransaction();
+		this.getSession().delete(comment);
+		this.getSession().getTransaction().commit();
+		
+	
+		return comment;
+	}
+
+	
+}

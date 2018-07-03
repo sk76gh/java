@@ -1,0 +1,13 @@
+1527668932352	Move 'hibernate.cfg.xml' to 'dto'
+1527668966983	Move 'hibernate.cfg.xml' to 'hib'
+1527669327392	Move 'hibernate.cfg.xml' to 'src'
+1527669338440	Move 'hibernate.cfg.xml' to 'org'
+1527669393318	Move 'hibernate.cfg.xml' to 'dto'
+1527669423773	Move file
+1527669450147	Move file
+1527669465670	Move 'hibernate.cfg.xml' to 'java'
+1527669547299	Delete element
+1527669888636	Move 'hibernate.cfg.xml' to 'src'
+1527669946220	Delete element
+1527670000215	Move 'hibernate.cfg.xml' to 'java'
+1527750373717	Encapsulate field 'address'

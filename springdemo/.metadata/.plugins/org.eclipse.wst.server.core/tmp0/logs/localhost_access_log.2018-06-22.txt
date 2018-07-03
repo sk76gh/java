@@ -1,0 +1,26 @@
+127.0.0.1 - - [22/Jun/2018:09:07:48 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [22/Jun/2018:09:07:49 +0530] "GET /jaxrs/ HTTP/1.1" 200 247
+127.0.0.1 - - [22/Jun/2018:09:07:49 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [22/Jun/2018:09:13:16 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 500 33760
+127.0.0.1 - - [22/Jun/2018:09:35:41 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 200 653
+127.0.0.1 - - [22/Jun/2018:09:36:21 +0530] "-" 400 -
+127.0.0.1 - - [22/Jun/2018:09:36:31 +0530] "GET /jaxrx/webapi/messages HTTP/1.1" 404 993
+127.0.0.1 - - [22/Jun/2018:09:37:27 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 200 653
+127.0.0.1 - - [22/Jun/2018:09:51:01 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 200 653
+127.0.0.1 - - [22/Jun/2018:09:51:33 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 200 653
+127.0.0.1 - - [22/Jun/2018:09:55:59 +0530] "-" 400 -
+127.0.0.1 - - [22/Jun/2018:09:56:20 +0530] "POST /jaxrx/webapi/messages HTTP/1.1" 404 993
+127.0.0.1 - - [22/Jun/2018:10:27:55 +0530] "POST /jaxrx/webapi/messages HTTP/1.1" 404 993
+0:0:0:0:0:0:0:1 - - [22/Jun/2018:10:29:32 +0530] "POST /jaxrs/webapi/messages HTTP/1.1" 201 325
+127.0.0.1 - - [22/Jun/2018:10:30:14 +0530] "POST /jaxrx/webapi/messages HTTP/1.1" 404 993
+127.0.0.1 - - [22/Jun/2018:10:30:45 +0530] "POST /jaxrx/webapi/messages HTTP/1.1" 404 993
+127.0.0.1 - - [22/Jun/2018:10:31:03 +0530] "POST /jaxrs/webapi/messages HTTP/1.1" 400 990
+127.0.0.1 - - [22/Jun/2018:10:32:51 +0530] "POST /jaxrs/webapi/messages HTTP/1.1" 400 990
+0:0:0:0:0:0:0:1 - - [22/Jun/2018:10:33:18 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 200 979
+127.0.0.1 - - [22/Jun/2018:10:40:28 +0530] "POST /jaxrs/webapi/messages HTTP/1.1" 201 329
+0:0:0:0:0:0:0:1 - - [22/Jun/2018:10:41:59 +0530] "POST /jaxrs/webapi/messages HTTP/1.1" 201 325
+127.0.0.1 - - [22/Jun/2018:10:46:16 +0530] "POST /jaxrs/webapi/messages HTTP/1.1" 201 329
+127.0.0.1 - - [22/Jun/2018:10:46:33 +0530] "GET /jaxrs/webapi/messages HTTP/1.1" 200 1965
+127.0.0.1 - - [22/Jun/2018:13:59:24 +0530] "GET /jaxrs/ HTTP/1.1" 200 247
+127.0.0.1 - - [22/Jun/2018:14:26:25 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [22/Jun/2018:14:26:26 +0530] "GET /jaxrs/ HTTP/1.1" 200 247

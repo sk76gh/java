@@ -1,0 +1,6 @@
+#Wed May 23 11:25:38 IST 2018
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=tomcat server

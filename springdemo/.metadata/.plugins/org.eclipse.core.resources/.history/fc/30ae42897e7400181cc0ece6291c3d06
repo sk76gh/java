@@ -1,0 +1,7 @@
+package org.saravana.jaxrs.jaxrs.exception;
+
+import javax.ws.rs.ext.ExceptionMapper;
+
+public class MessageNotFoundExceptionMapper implements ExceptionMapper<E> {
+
+}

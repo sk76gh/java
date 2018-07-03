@@ -1,0 +1,86 @@
+
+Jun 15, 2018 16:43:06.61 NEW SESSION
+Jun 15, 2018 16:43:06.61 [31964:31720:0615/164306.612:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DisabledPlugin
+Jun 15, 2018 16:43:06.61 [31964:31720:0615/164306.612:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DnsPrefetchingEnabled
+Jun 15, 2018 16:43:06.62 [31964:31720:0615/164306.612:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 15, 2018 16:43:06.62 [31964:31720:0615/164306.612:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: Update
+Jun 15, 2018 16:43:07.15 [31964:31720:0615/164307.153:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DisabledPlugin
+Jun 15, 2018 16:43:07.15 [31964:31720:0615/164307.153:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DnsPrefetchingEnabled
+Jun 15, 2018 16:43:07.16 [31964:31720:0615/164307.153:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 15, 2018 16:43:07.16 [31964:31720:0615/164307.153:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: Update
+Jun 15, 2018 16:43:10.62 [31964:20560:0615/164310.622:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2018 16:43:34.91 [31964:20560:0615/164334.912:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2018 16:43:45.31 [31964:31720:0615/164345.311:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jun 15, 2018 16:44:25.22 Unable to read VR Path Registry from C:\Users\307003405\AppData\Local\openvr\openvrpaths.vrpath
+Jun 15, 2018 16:44:25.23 [31964:20560:0615/164425.227:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2018 16:46:23.51 [31964:20560:0615/164623.510:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2018 16:50:13.49 [31964:20560:0615/165013.492:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2018 16:53:16.26 [31964:31720:0615/165316.235:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 15, 2018 16:53:40.02 [31964:31720:0615/165340.021:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 15, 2018 16:54:25.96 [31964:31720:0615/165425.960:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 15, 2018 16:55:57.06 [31964:31720:0615/165557.061:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 15, 2018 16:56:59.41 [31964:20560:0615/165659.416:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2018 16:59:51.16 [31964:31720:0615/165951.164:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 15, 2018 17:05:52.39 [31964:31720:0615/170552.393:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 15, 2018 17:06:59.41 [31964:20560:0615/170659.418:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2018 17:10:56.61 [31964:20560:0615/171056.609:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+
+Jun 18, 2018 12:22:13.28 NEW SESSION
+Jun 18, 2018 12:22:13.28 [8884:17332:0618/122213.266:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DisabledPlugin
+Jun 18, 2018 12:22:13.28 [8884:17332:0618/122213.266:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DnsPrefetchingEnabled
+Jun 18, 2018 12:22:13.28 [8884:17332:0618/122213.266:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 18, 2018 12:22:13.29 [8884:17332:0618/122213.266:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: Update
+Jun 18, 2018 12:22:13.59 [8884:17332:0618/122213.594:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DisabledPlugin
+Jun 18, 2018 12:22:13.59 [8884:17332:0618/122213.594:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DnsPrefetchingEnabled
+Jun 18, 2018 12:22:13.59 [8884:17332:0618/122213.594:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 18, 2018 12:22:13.60 [8884:17332:0618/122213.594:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: Update
+Jun 18, 2018 13:55:08.56 Unable to read VR Path Registry from C:\Users\307003405\AppData\Local\openvr\openvrpaths.vrpath
+Jun 18, 2018 13:55:08.57 [8884:13860:0618/135508.553:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 13:55:29.82 [8884:13860:0618/135529.823:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 14:40:24.61 [8884:13860:0618/144024.613:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 14:50:53.27 [8884:13860:0618/145052.249:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 15:48:20.32 [8884:13860:0618/154820.319:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 15:48:20.53 [8884:17332:0618/154820.535:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 18, 2018 15:48:50.16 [8884:17332:0618/154850.165:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 18, 2018 15:49:19.85 [8884:13860:0618/154919.855:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 15:49:33.27 [8884:17332:0618/154933.269:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 18, 2018 15:50:50.72 [8884:13860:0618/155050.724:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 15:51:24.68 [8884:17332:0618/155124.686:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 18, 2018 15:54:50.60 [8884:13860:0618/155450.604:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 15:55:19.15 [8884:17332:0618/155519.151:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 18, 2018 16:00:45.87 [8884:13860:0618/160045.878:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 16:01:20.23 [8884:17332:0618/160120.237:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 18, 2018 19:54:05.25 [8884:13860:0618/195405.200:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 18, 2018 19:54:05.27 [8884:13860:0618/195405.238:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jun 18, 2018 19:54:05.29 [8884:17332:0618/195405.239:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 18, 2018 19:54:18.47 [8884:17448:0618/195418.473:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jun 19, 2018 08:33:15.75 [8884:17448:0619/083315.753:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jun 19, 2018 08:33:17.61 [8884:17332:0619/083317.616:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 19, 2018 08:33:18.17 [8884:13860:0619/083318.176:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jun 19, 2018 08:33:35.04 [8884:1904:0619/083335.035:ERROR:gcm_store_impl.cc(629)] LevelDB remove failed: NotFound: 
+Jun 19, 2018 08:33:35.04 [8884:13860:0619/083335.037:ERROR:mcs_client.cc(524)] GCM Update failed!
+Jun 19, 2018 08:35:35.72 [8884:17332:0619/083535.726:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+Jun 19, 2018 13:18:53.26 [8884:13860:0619/131853.258:ERROR:mcs_client.cc(754)] Received close command, resetting connection.
+Jun 19, 2018 14:44:26.85 [8884:13860:0619/144426.849:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jun 19, 2018 14:44:47.01 [8884:13860:0619/144447.013:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2018 16:03:13.64 [8884:13860:0619/160313.645:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2018 16:03:13.88 [8884:17332:0619/160313.877:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jun 20, 2018 09:40:07.12 NEW SESSION
+Jun 20, 2018 09:40:07.12 [16180:22708:0620/094007.106:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DisabledPlugin
+Jun 20, 2018 09:40:07.14 [16180:22708:0620/094007.106:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DnsPrefetchingEnabled
+Jun 20, 2018 09:40:07.14 [16180:22708:0620/094007.107:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 20, 2018 09:40:07.14 [16180:22708:0620/094007.107:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: Update
+Jun 20, 2018 09:40:07.60 [16180:22708:0620/094007.603:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DisabledPlugin
+Jun 20, 2018 09:40:07.60 [16180:22708:0620/094007.603:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DnsPrefetchingEnabled
+Jun 20, 2018 09:40:07.60 [16180:22708:0620/094007.603:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 20, 2018 09:40:07.61 [16180:22708:0620/094007.603:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: Update
+Jun 20, 2018 14:52:17.83 Unable to read VR Path Registry from C:\Users\307003405\AppData\Local\openvr\openvrpaths.vrpath
+Jun 20, 2018 17:28:44.20 [22516:19000:0620/172844.203:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DisabledPlugin
+Jun 20, 2018 17:28:44.20 [22516:19000:0620/172844.203:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DnsPrefetchingEnabled
+Jun 20, 2018 17:28:44.20 [22516:19000:0620/172844.203:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 20, 2018 17:28:44.21 [22516:19000:0620/172844.203:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: Update
+Jun 20, 2018 17:28:44.38 [22516:19000:0620/172844.384:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DisabledPlugin
+Jun 20, 2018 17:28:44.38 [22516:19000:0620/172844.384:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: DnsPrefetchingEnabled
+Jun 20, 2018 17:28:44.38 [22516:19000:0620/172844.384:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: PasswordManagerAllowShowPasswords
+Jun 20, 2018 17:28:44.39 [22516:19000:0620/172844.384:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: Update
